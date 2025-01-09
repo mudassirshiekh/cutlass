@@ -43,6 +43,7 @@ In addition to GEMMs, CUTLASS implements high-performance convolution via the im
 
 
 # What's New in CUTLASS 3.6
+## By Mudassir Alam
 
 CUTLASS 3.6.0 is an update to CUTLASS adding:
 
